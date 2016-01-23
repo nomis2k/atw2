@@ -1,0 +1,19 @@
+{
+  "CHANGELOG.md": "8492b93fefb256c1a5292842692c5266",
+  "Gemfile": "cc1a8cd48ab83d8a67e9eaace46a13b5",
+  "LICENSE": "6089b6bd1f0d807edb8bdfd76da0b038",
+  "README.md": "7fa3f7ecbe501d28ddd6af6d5956681a",
+  "Rakefile": "d28c95dc499cb0f32a182b8eae7c9c04",
+  "manifests/init.pp": "37a2f5445594ffa2bb7e57afb11b67ea",
+  "metadata.json": "7fffb93305423f777f28f52b36ebd223",
+  "spec/acceptance/motd_spec.rb": "42e4127ab04f475699853a77245fb6ab",
+  "spec/acceptance/nodesets/default.yml": "29f208c4e015240eafa0c39f52660422",
+  "spec/acceptance/nodesets/ubuntu.yml": "a4069fc820f9d003541027e012f75ae5",
+  "spec/classes/motd_spec.rb": "72ac3312dda2efebe81ded2a5e805865",
+  "spec/spec.opts": "a600ded995d948e393fbe2320ba8e51c",
+  "spec/spec_helper.rb": "792eeb7aa7edafb93e2bc1d27c5e75c5",
+  "spec/spec_helper_acceptance.rb": "1c836d091682c367f46866b00a434c35",
+  "templates/motd.erb": "8cb6c0db0ebdc9d0244861b1ea81540a",
+  "templates/spec.erb": "cad8f5ed937a14f8ecb735d82678df56",
+  "tests/init.pp": "5086992bfbe4109aef08a6dc91736250"
+}
